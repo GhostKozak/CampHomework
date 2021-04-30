@@ -115,6 +115,9 @@ hs_err_pid*
 .history
 .ionide
 
+
+.idea
+.idea/**
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
